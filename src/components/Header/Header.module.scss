@@ -1,0 +1,24 @@
+.header{
+    text-align: center;
+}
+
+.flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navMenu{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+
+    @media screen and (min-width: 768px) {
+        flex-direction: row;
+        gap: 60px;
+    }
+
+    a{
+        color: #000;
+    }
+}
