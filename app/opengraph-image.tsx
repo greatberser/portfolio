@@ -66,7 +66,7 @@ export default function OgImage() {
             marginBottom: 48,
           }}
         >
-          Frontend Developer
+          Frontend Developer | Fullstack Developer | QA Manual
         </div>
 
         {/* Tech badges */}
