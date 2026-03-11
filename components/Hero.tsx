@@ -48,7 +48,7 @@ export default function Hero() {
       </div>
       <p className="mb-10 max-w-xl text-base leading-relaxed text-[#9ca3af]">
         Frontend developer with 2+ years of experience building modern web
-        applications using React, Next.js, and TypeScript.
+        applications using React, Next.js, TypeScript, Node.js, and Prisma.
       </p>
       <div className="flex flex-wrap items-center justify-center gap-3">
         <a

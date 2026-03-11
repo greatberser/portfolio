@@ -22,7 +22,11 @@ export default function About() {
             Outside of my main stack I&apos;m comfortable with{" "}
             <span className="text-white">TypeScript</span>, styling systems like{" "}
             <span className="text-white">Tailwind CSS</span>, and tools like
-            Docker and Storybook for a solid dev experience.
+            Docker and Storybook for a solid dev experience. On the backend side
+            I have experience with{" "}
+            <span className="text-white">Node.js</span> and{" "}
+            <span className="text-white">Prisma</span>, building APIs and
+            working with databases and server-side logic.
           </p>
         </div>
       </div>
