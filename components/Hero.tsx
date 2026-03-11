@@ -20,7 +20,7 @@ export default function Hero() {
         Maksym Melnychuk
       </h1>
       <p className="mb-4 text-lg font-medium text-[#6b7280] sm:text-xl">
-        Frontend Developer
+        Frontend Developer | Fullstack Developer | QA Manual
       </p>
       <div className="mb-6 flex items-center gap-4">
         <a
